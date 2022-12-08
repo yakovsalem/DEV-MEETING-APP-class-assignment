@@ -1,0 +1,22 @@
+.Menu {
+    color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+.Menu a {
+    margin: 20px;
+    color: white;
+    font-size: 120%;
+    padding: 10px 30px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 4px;
+}
+
+.Menu a:hover {
+    border: 1px solid #494FBF;
+    color: #494FBF;
+    cursor: pointer;
+}

@@ -1,0 +1,13 @@
+.MeetingsList .MeetingsArea{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 40px;
+    text-align: left;
+}
+
+.MeetingsList .TeamsSelect > select {
+    padding: 8px 15px;
+    width: 220px;
+    font-size: larger;
+}

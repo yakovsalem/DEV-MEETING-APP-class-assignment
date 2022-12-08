@@ -1,0 +1,61 @@
+.AddMeeting {
+    padding: 20px;
+
+
+}
+
+.AddMeeting h3 {
+    margin-top: 0;
+    text-align: center;
+    color: white;
+}
+
+.AddMeeting>form {
+    width: 300px;
+    text-align: left;
+    margin: auto;
+    padding: 40px;
+    background-color: #4449A6;
+}
+
+.AddMeeting label {
+    color: white;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+
+.AddMeeting input,
+.AddMeeting select,
+.AddMeeting button,
+.AddMeeting textarea {
+    transition-duration: 0.3s;
+    width: 100%;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    padding: 10px;
+    border: none;
+    font-size: 100%;
+}
+
+.AddMeeting input:hover,
+.AddMeeting textarea:hover {
+    background-color: rgb(210, 210, 210);
+}
+
+.AddMeeting select {
+    font-size: 100%;
+}
+
+.AddMeeting button {
+    margin-bottom: 0px;
+    background-color: #0F1359;
+    color: white;
+    border: 1px solid white;
+}
+
+.AddMeeting button:hover {
+    background-color: white;
+    color: #0F1359;
+    border: 1px solid #0F1359;
+}
